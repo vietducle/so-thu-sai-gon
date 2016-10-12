@@ -1,0 +1,21 @@
+C:\Users\DELL\Desktop\so thu sai gon\so thu sai gon\bin\Debug\so thu sai gon.exe
+C:\Users\DELL\Desktop\so thu sai gon\so thu sai gon\bin\Debug\so thu sai gon.pdb
+C:\Users\DELL\Desktop\so thu sai gon\so thu sai gon\obj\x86\Debug\so_thu_sai_gon.Form1.resources
+C:\Users\DELL\Desktop\so thu sai gon\so thu sai gon\obj\x86\Debug\so_thu_sai_gon.Properties.Resources.resources
+C:\Users\DELL\Desktop\so thu sai gon\so thu sai gon\obj\x86\Debug\so thu sai gon.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\so thu sai gon\so thu sai gon\obj\x86\Debug\so thu sai gon.exe
+C:\Users\DELL\Desktop\so thu sai gon\so thu sai gon\obj\x86\Debug\so thu sai gon.pdb
+C:\Users\DELL\Desktop\New folder\so thu sai gon\so thu sai gon\obj\x86\Debug\so thu sai gon.exe
+C:\Users\DELL\Desktop\New folder\so thu sai gon\so thu sai gon\obj\x86\Debug\so thu sai gon.pdb
+C:\Users\DELL\Desktop\New folder\so thu sai gon\so thu sai gon\bin\Debug\so thu sai gon.exe
+C:\Users\DELL\Desktop\New folder\so thu sai gon\so thu sai gon\bin\Debug\so thu sai gon.pdb
+C:\Users\DELL\Desktop\New folder\so thu sai gon\so thu sai gon\obj\x86\Debug\so_thu_sai_gon.Form1.resources
+C:\Users\DELL\Desktop\New folder\so thu sai gon\so thu sai gon\obj\x86\Debug\so_thu_sai_gon.Properties.Resources.resources
+C:\Users\DELL\Desktop\New folder\so thu sai gon\so thu sai gon\obj\x86\Debug\so thu sai gon.csproj.GenerateResource.Cache
+E:\LTNC\so-thu-sai-gon\so thu sai gon\obj\x86\Debug\so thu sai gon.exe
+E:\LTNC\so-thu-sai-gon\so thu sai gon\obj\x86\Debug\so thu sai gon.pdb
+E:\LTNC\so-thu-sai-gon\so thu sai gon\bin\Debug\so thu sai gon.exe
+E:\LTNC\so-thu-sai-gon\so thu sai gon\bin\Debug\so thu sai gon.pdb
+E:\LTNC\so-thu-sai-gon\so thu sai gon\obj\x86\Debug\so_thu_sai_gon.Form1.resources
+E:\LTNC\so-thu-sai-gon\so thu sai gon\obj\x86\Debug\so_thu_sai_gon.Properties.Resources.resources
+E:\LTNC\so-thu-sai-gon\so thu sai gon\obj\x86\Debug\so thu sai gon.csproj.GenerateResource.Cache
